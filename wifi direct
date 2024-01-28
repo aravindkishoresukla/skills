@@ -1,0 +1,40 @@
+Doubts:
+
+Q) Is autonomous type is faster than Standard type?
+Q) What is initiative procedure in persistant mode ?
+Q) WSC exchange?
+
+
+Wi-Fi Direct devices connect to one another without joining a traditional home, office, or public network.
+Wi-Fi Direct connections between devices are the underlying technology for many applications, including Miracast®
+ When two or more Wi-Fi Direct-certified devices connect directly, they form a Wi-Fi Direct group using Wi-Fi Protected Setup™
+
+Q) How is Miracast related to Wi-Fi Direct?
+A) Miracast builds upon Wi-Fi Direct with mechanisms to negotiate video capabilities, setup content protection (if needed), stream content, and maintain the video session.
+
+Q) How does security work for Wi-Fi Direct products? 
+A) they have protection of the security features certified under the WPA2 program, but are managed separately from the security system in the AP-based network (home, enterprise, hotspot)
+
+NOTE: Simultaneous connection to a Wi-Fi Direct group and an infrastructure network is an optional feature.
+ Wi-Fi Direct devices can support the Power Save feature certified under the WMM® program
+
+Q) Can a network based on devices certified under the Wi-Fi Direct program cross connect to an infrastructure network for internet connectivity?
+A) Yes. A single device in a Wi-Fi Direct-certified group network may share internet connectivity with other devices in the network by creating simultaneous infrastructure and Wi-Fi Direct
+   connections. A network of devices certified under the Wi-Fi Direct program operates in a security domain separate from the infrastructure network, even when cross-connected.
+
+Q) Does the specification underlying the Wi-Fi Direct certification program work on both 2.4 GHz and 5 GHz frequency bands?
+A) Yes, the specification underlying the Wi-Fi Direct certification program supports operation in both 2.4 GHz and 5 GHz. Devices operating in the 2.4 GHz frequency band only and devices
+   operating in both the 2.4 GHz and 5 GHz frequency bands can be certified under the Wi-Fi Direct program. Not all Wi-Fi Direct-certified devices support both frequency bands, however,
+   so you should check which bands your devices support.
+
+Q) If I make a Wi-Fi Direct group with another person, can they see all of the contents of my device?
+A) Not without your permission. The content available over a Wi-Fi Direct group connection is driven by the applications you are using.
+
+Q) How fast is Wi-Fi Direct?
+A) Wi-Fi Direct supports Wi-Fi speeds up to 250 Mbps. Even at lower speeds, Wi-Fi provides plenty of throughput for transferring multimedia content with ease. The performance of a particular group of Wi-Fi Direct devices depends on whether the devices are 802.11a,
+   g, or n, as well as the particular characteristics of the devices and the physical environment.
+
+Q) How many devices can connect?
+A) A Wi-Fi Direct-certified network can be one-to-one, or one-to-many. Connection to multiple other devices is an optional feature that will not be supported in all Wi-Fi Direct devices; some devices will only make 1:1 connections.
+
+Support: Android 4.0, AirPlay and AirDrop, Smart televisions often allow casting from Wi-Fi Direct devices, and many streaming devices, such as Roku and Chromecast, are compatible as well
